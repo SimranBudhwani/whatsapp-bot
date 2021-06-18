@@ -4,3 +4,6 @@ pip install opencv - python
 pip install PyAutoGUI
 pip install pyperclip
 pip install Pillow
+
+
+I've enclosed all the required files in this repository
